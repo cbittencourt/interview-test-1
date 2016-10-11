@@ -1,0 +1,11 @@
+{
+  "name": "interview-test",
+  "version": "0.0.1",
+  "description": "creating a solution to generate the desired output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Bittencourt",
+  "license": "ISC"
+}
